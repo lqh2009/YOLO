@@ -1,3 +1,16 @@
+Ultralytics YOLO 🚀, AGPL-3.0 license
+
+Copyright (c) 2023 Ultralytics (https://ultralytics.com)
+All rights reserved.
+
+This project is licensed under the GNU Affero General Public License v3.0.
+
+Ultralytics open-source code and models are available under AGPL-3.0 license. See LICENSE file.
+
+For Enterprise licensing options, email hello@ultralytics.com.
+
+For more details, please refer to https://github.com/ultralytics/ultralytics/blob/main/LICENSE and https://github.com/ultralytics/ultralytics/blob/main/README.md#license
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
@@ -633,8 +646,8 @@ the "copyright" line and a pointer to where the full notice is found.
     Copyright (C) <year>  <name of author>
 
     This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU Affero General Public License as published
-    by the Free Software Foundation, either version 3 of the License, or
+    it under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
     This program is distributed in the hope that it will be useful,

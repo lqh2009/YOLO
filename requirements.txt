@@ -1,0 +1,20 @@
+requests==2.32.3
+ultralytics==8.3.5
+opencv-python==4.8.1.78
+PyQt5
+numpy==1.26.0
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.1.2+cu121
+torchvision==0.16.2+cu121
+torchaudio==2.1.2+cu121
+tqdm==4.66.5
+Pillow==10.4.0
+urllib3==2.2.3
+moviepy==1.0.3
+pyyaml==6.0.2
+matplotlib==3.9.2
+seaborn==0.13.2
+pandas==2.2.3
+openpyxl
+pywin32
+mss

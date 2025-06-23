@@ -1,0 +1,26 @@
+作者声明
+
+原始项目:
+Ultralytics YOLO 🚀
+版权所有 (c) 2023 Ultralytics (https://github.com/ultralytics/ultralytics)
+保留所有权利
+
+原始许可证: GNU Affero General Public License v3.0
+详情请参阅 LICENSE 文件
+
+---
+
+本项目基于 Ultralytics YOLO 进行了修改和扩展。
+
+修改者: [文抑青年]
+修改日期: [2024年10月5日]
+
+修改说明:
+[本项目是基于yoloV11版本修改的，并添加了物体检测统计功能，能够实时捕捉画面进行检测并统计，并添加了GUI界面，能够实时显示检测结果，引用了原作者的Ultralytics库，模型使用的是官方的yolov11]
+
+本修改版本仍然遵循 GNU Affero General Public License v3.0 许可证。
+使用本软件时,请确保遵守相关许可条款。
+
+如有任何问题或建议,请联系: [B站主页：https://space.bilibili.com/259012968]
+
+感谢 Ultralytics 团队开发的优秀 YOLO 实现。
